@@ -1,0 +1,2 @@
+number = Time.now
+puts
